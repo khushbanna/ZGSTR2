@@ -1,0 +1,5 @@
+@EndUserText.label: 'ZGSTR1_F4'
+define service ZGSTR1_F4_DEF {
+  expose ZGSTR_F4        as GST_F4;
+  expose ZBUSINESS_PLACE as BUSINESS_PLACE;
+}

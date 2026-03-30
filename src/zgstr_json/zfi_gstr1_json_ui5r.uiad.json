@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "An SAP Fiori application.",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "GSTR1 JSON Report"
+  },
+  "ui5AppDetails": {
+    "appId": "zfigstr1json"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_8B636E01A6CE75568994414515E4E6600BCF217F_TM",
+    "semanticObject": "zfi_gstr1_json5",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_8B636E01A6CE75568994414515E4E6600BCF217F_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "GSTR1 JSON Report",
+        "subtitle": "FI"
+      }
+    }
+  ]
+}

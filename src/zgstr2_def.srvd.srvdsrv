@@ -1,0 +1,4 @@
+@EndUserText.label: 'GSTR2 REPORT'
+define service ZGSTR2_DEF {
+  expose ZGSTR2_UNION_CDS;
+}

@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "GSTR2 REPORT",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "GSTR2 REPORT"
+  },
+  "ui5AppDetails": {
+    "appId": "zgstr2report"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_01DBBF554027BC20E52AB83A2FBAD1DA54F631DA_TM",
+    "semanticObject": "ZGSTR2_REPORT_2",
+    "action": "Display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_01DBBF554027BC20E52AB83A2FBAD1DA54F631DA_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "GSTR2 REPORT",
+        "subtitle": "FI"
+      }
+    }
+  ]
+}
